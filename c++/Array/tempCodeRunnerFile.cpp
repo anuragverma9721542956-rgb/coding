@@ -1,2 +1,1 @@
-  // cout<<marks[0]<<endl;
-    // marks[0] = 23;
+   for(int ele :v) cout<<ele<<" ";
